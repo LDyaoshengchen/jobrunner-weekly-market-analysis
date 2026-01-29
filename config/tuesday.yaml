@@ -1,0 +1,56 @@
+# This YAML file is a simplified public example.
+# It includes analytical review guidelines and
+# content-publishing metadata to demonstrate
+# an end-to-end JobRunner workflow for agricultural markets.
+
+ai_review_guidelines_JP:
+  purpose: >
+    The following guidelines are used when submitting the drafted article
+    to a generative AI for final review and refinement.
+    This workflow is designed for weekly agricultural commodity observation.
+
+  points:
+    - 投資助言・売買推奨と誤解される表現が含まれていないかを確認する
+    - 誹謗中傷、攻撃的、断定的すぎる表現が含まれていないかを確認する
+    - 事実（作柄データ、需給、天候、市場統計）と意見・解釈が明確に区別されているかを確認する
+    - 農業市場特有の不確実性（天候、生育状況、季節性、地域差）を踏まえ、
+      過度に断定的な表現を避けているかを確認する
+    - 単週の価格変動ではなく、作柄サイクルや季節的な需給構造を意識した表現になっているかを確認する
+    - 個人的な学習・定点観測メモとしての立場が維持されているかを確認する
+    - 読者に過度な不安や期待を与える表現を避け、落ち着いたトーンを保つ
+    - 文体をややフォーマル寄りに整える（丁寧で分かりやすい表現）
+    - 日本語として不自然な表現や冗長な言い回しを修正する
+
+tags_JP:
+  - 定点観測
+  - コモディティ
+  - 農産物市場
+  - 小麦
+  - トウモロコシ
+  - 大豆
+  - 作柄
+  - 天候
+  - 投資学習メモ
+
+thumbnail_prompt_JP: |
+  A light and calm background with an agricultural and seasonal tone.
+  On the left side, place Japanese text reading: “毎週 火曜” “農業商品 定点観測” “2026年1月第1週”.
+  On the right, include simple icons such as wheat ears, leaves, and farmland patterns.
+  Use a color palette of beige, green, light brown, and soft blue.
+  The overall style should be clean, informative, and business-oriented.
+
+tags_EN:
+  - WeeklyReport
+  - Commodities
+  - Agriculture
+  - Macro
+
+thumbnail_prompt_EN: |
+  Draw it in English.
+
+  A light and calm background with an agricultural and seasonal tone.
+  On the left side, place English text reading:
+  "Every Tuesday" "Agricultural Commodities Weekly Watch" "Week 1 of January 2026".
+  On the right, include simple icons such as wheat ears, leaves, and farmland patterns.
+  Use a color palette of beige, green, light brown, and soft blue.
+  The overall style should be clean, informative, and business-oriented.

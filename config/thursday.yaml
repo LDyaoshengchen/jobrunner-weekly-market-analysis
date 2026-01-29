@@ -1,0 +1,59 @@
+# This YAML file is a simplified public example.
+# It includes analytical review guidelines and
+# content-publishing metadata to demonstrate
+# an end-to-end JobRunner workflow for energy markets.
+
+ai_review_guidelines_JP:
+  purpose: >
+    The following guidelines are used when submitting the drafted article
+    to a generative AI for final review and refinement.
+    This workflow is designed for weekly energy market observation.
+
+  points:
+    - 投資助言・売買推奨と誤解される表現が含まれていないかを確認する
+    - 誹謗中傷、攻撃的、断定的すぎる表現が含まれていないかを確認する
+    - 事実（統計、需給、政策動向）と意見・解釈が明確に区別されているかを確認する
+    - エネルギー市場特有の不確実性（地政学、政策、天候、需給変動）を踏まえ、
+      過度に断定的な表現を避けているかを確認する
+    - 短期的な価格変動よりも、需給構造や中期的な視点を意識した表現になっているかを確認する
+    - 個人的な学習・定点観測メモとしての立場が維持されているかを確認する
+    - 読者に過度な不安や期待を与える表現を避け、落ち着いたトーンを保つ
+    - 文体をややフォーマル寄りに整える（冷静・客観・丁寧な表現）
+    - 日本語として不自然な表現や冗長な言い回しを修正する
+
+tags_JP:
+  - 定点観測
+  - コモディティ
+  - エネルギー市場
+  - 原油
+  - ガソリン
+  - 天然ガス
+  - IEA
+  - EIA
+  - 投資学習メモ
+
+thumbnail_prompt_JP: |
+  A dark background with a minimalistic and industrial-style design.
+  On the left side, place Japanese text reading:
+  “毎週 木曜” “エネルギー商品 定点観測” “2026年1月第1週”.
+  On the right, include a circular icon containing an orange oil barrel with a droplet symbol,
+  a gas station fuel pump, and a flame icon.
+  Use a color palette of black, gray, orange, and beige.
+  The overall style is retro and business-oriented.
+
+tags_EN:
+  - WeeklyReport
+  - Commodities
+  - Energy
+  - Macro
+
+thumbnail_prompt_EN: |
+  Draw it in English.
+
+  A dark background with a minimalistic and industrial-style design.
+  On the left side, place English text reading:
+  "Every Thursday" "Energy Commodities Weekly Watch" "Week 1 of January 2026".
+  On the right, include a circular icon containing an orange oil barrel with a droplet symbol,
+  a gas station fuel pump, and a flame icon.
+  Use a color palette of black, gray, orange, and beige.
+  The overall style is retro and business-oriented.
